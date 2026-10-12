@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ro-Cloudblox/Adopt-Me/refs/heads/main/Dusk-And-Shine"))()
+loadstring(game:HttpGet("https://ro-cloud.xyz/api/dusk-shine.lua"))()
